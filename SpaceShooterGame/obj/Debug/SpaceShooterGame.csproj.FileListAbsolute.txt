@@ -1,0 +1,12 @@
+C:\Users\9r9o\source\repos\SpaceShooterGame\SpaceShooterGame\bin\Debug\SpaceShooterGame.exe.config
+C:\Users\9r9o\source\repos\SpaceShooterGame\SpaceShooterGame\bin\Debug\SpaceShooterGame.exe
+C:\Users\9r9o\source\repos\SpaceShooterGame\SpaceShooterGame\bin\Debug\SpaceShooterGame.pdb
+C:\Users\9r9o\source\repos\SpaceShooterGame\SpaceShooterGame\obj\Debug\SpaceShooterGame.csprojAssemblyReference.cache
+C:\Users\9r9o\source\repos\SpaceShooterGame\SpaceShooterGame\obj\Debug\SpaceShooterGame.SpaceShooterGame.resources
+C:\Users\9r9o\source\repos\SpaceShooterGame\SpaceShooterGame\obj\Debug\SpaceShooterGame.Properties.Resources.resources
+C:\Users\9r9o\source\repos\SpaceShooterGame\SpaceShooterGame\obj\Debug\SpaceShooterGame.csproj.GenerateResource.cache
+C:\Users\9r9o\source\repos\SpaceShooterGame\SpaceShooterGame\obj\Debug\SpaceShooterGame.csproj.CoreCompileInputs.cache
+C:\Users\9r9o\source\repos\SpaceShooterGame\SpaceShooterGame\obj\Debug\SpaceShooterGame.exe
+C:\Users\9r9o\source\repos\SpaceShooterGame\SpaceShooterGame\obj\Debug\SpaceShooterGame.pdb
+C:\Users\9r9o\source\repos\SpaceShooterGame\SpaceShooterGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\9r9o\source\repos\SpaceShooterGame\SpaceShooterGame\obj\Debug\SpaceShooterGame.csproj.ResolveComReference.cache
